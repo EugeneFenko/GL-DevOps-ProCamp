@@ -1,0 +1,19 @@
+{
+  "name": "netop",
+  "version": "1.0.0",
+  "description": "CPU and RAM utilization",
+  "main": "netop.js",
+  "scripts": {
+    "netop": "node netop"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EugeneFenko/GL-DevOps-ProCamp.git"
+  },
+  "author": "Eugene Fenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EugeneFenko/GL-DevOps-ProCamp/issues"
+  },
+  "homepage": "https://github.com/EugeneFenko/GL-DevOps-ProCamp#readme"
+}

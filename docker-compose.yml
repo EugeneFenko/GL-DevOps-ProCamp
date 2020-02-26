@@ -1,0 +1,6 @@
+version: '3.3'
+services:
+    netop:
+        environment:
+            - SHOW=mem
+        image: gt60/netop
